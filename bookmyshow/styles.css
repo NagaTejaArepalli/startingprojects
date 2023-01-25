@@ -1,0 +1,194 @@
+body{
+    position:absolute;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.div{
+    display:inline;
+}
+div{
+    display: inline;
+}
+nav{
+  width:100%;
+  position: relative;
+  background-color: rgb(71, 67, 67); 
+}
+nav img{
+    padding: 5px;
+    position: relative;
+    top: 3PX;
+    width: 200px;
+    left: 15px;
+}
+nav input{
+    position: relative;
+    top:-20px;
+    left:30px;
+    align-items: center;
+    padding: 7px;
+    width:500px;
+}
+nav select{
+    position:relative;
+    top:-10px;
+    left:50px;
+    padding: 3px;
+
+}
+nav select{
+    position: absolute;
+    right: 200px;
+    left:900px;
+    top:20px;
+    padding: 5px;
+}
+nav button{
+    position: absolute;
+    right:50px;
+    top:17px;
+    padding:5px;
+    width:100px;
+    border-radius: 5px;
+    height: 35px;
+}
+.links{
+    background-color: rgb(12, 12, 12);
+    position: absolute;
+    width: 100%;
+    height: 50px;
+}
+.links .left{
+    position: absolute;
+    left: 10px;
+    top:16px;
+}
+.links .left a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px;
+    border: 2px;
+}
+.links .left a:hover{
+    color: rgb(217, 217, 207);
+    border: 20x;
+    border-radius: 5px;
+    background-color: rgb(51, 54, 54);
+}
+.links .right{
+    position: absolute;
+    right: 50px;
+    top:16px;
+}
+.links .right a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px;
+    border: 2px;
+}
+.links .right a:hover{
+    color: rgb(217, 217, 207);
+    border: 20x;
+    border-radius: 5px;
+    background-color: rgb(51, 54, 54);
+}
+.Recomendations{
+    position: absolute;
+    top:130px;
+    width: 100%;
+    padding: 10px;
+}
+.Recomendations strong{
+    padding: 20px;
+    text-align: right;
+    font-size:x-large;
+}
+.Recomendations a{
+    position: absolute;
+    right: 90px;
+    text-decoration: none;
+    font-size: large;
+}
+.Recomendations .images{
+    display:flex;
+    flex-wrap: wrap;
+    height: 400px;
+    padding: 20px;
+}
+.Recomendations .images img{
+    width: calc(100% / 3 - 60px);
+}
+.stream{
+    position: absolute;
+    top:1200px;
+    padding: 10px;
+}
+.stream img{
+    width: 100%;
+}
+.online{
+    position: absolute;
+    top:1350px;
+    width: 100%;
+    padding: 10px;
+}
+.online strong{
+    padding: 20px;
+    text-align: right;
+    font-size:x-large;
+}
+.online a{
+    position: absolute;
+    right: 90px;
+    text-decoration: none;
+    font-size: large;
+}
+.online a .onl{
+    display:flex;
+    flex-wrap: wrap;
+    width: calc(100% / 3 - 60px);
+    height: 400px;
+    padding: 20px;
+}
+.trending{
+    position: absolute;
+    top:1950px;
+    width: 100%;
+    padding:10px;
+}
+.trending strong{
+    padding: 20px;
+    text-align: right;
+    font-size:x-large;
+}
+.trending .see{
+    position: absolute;
+    right: 90px;
+    text-decoration: none;
+    font-size: large;
+}
+.trending .mov {
+    text-decoration: none;
+    display: flex;
+    flex-wrap: wrap;
+
+    padding: 10px;
+}
+.trending .mov a{
+    text-decoration: none;
+    width:calc(100% / 4 - 60px);
+    padding: 20px;
+    border: 2px;
+    border-radius: 2px;
+    margin: 2px;
+    background-color: rgb(176, 106, 106);
+    text-align: center;
+    border-radius: 5px;
+    color: azure;
+}
+.bar{
+    background-color: black;
+    position: relative;
+    top:2100px;
+}

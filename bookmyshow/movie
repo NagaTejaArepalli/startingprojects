@@ -1,0 +1,56 @@
+<div class="stream">
+      <img src="./images/add.jpg" alt="add" width="1050" height="100"><br>
+  </div>
+  <div class="livevents">
+      <strong><b>The Best Of Live Event</b></strong><a href="">see all</a><br>
+      <!--  <img src="./live events.jpg" alt="live events" width="1050" height="200"><br>-->
+  </div>
+  <div class="Eventshappended">
+      <strong><b>Events Happening Near You</b></strong><a href="">see all</a><br>
+       <!-- <img src="./events happen near u.jpg" alt="events" width="1050" height="200"><br>-->
+  </div>
+  <div class="online">
+      <strong><b>Online Streaming Events</b></strong><a href="">see all</a><br>
+      <img src="./images/kalamaripaint.jpg" alt="kalamkari">
+      <a href=""><strong>Kalamkari Painting</strong></a>
+      <img src="./images/smartphone photography.jpg" alt="Smartphone Photography">
+      <a href=""><strong>smartPhone Photography</strong></a>
+      <img src="./images/morphkan.jpg" alt="kalamkari">
+      <a href=""><strong>Morpankh in Pichwai painting</strong></a>  
+  </div>
+
+<div class="treanding">
+      <strong>Treanding Searches Right Now</strong><a href="">see all</a><br><br><br>
+      <a href="">Kushi(2001)</a>
+      <a href="">Okkadu</a>
+      <a href="">Avatar:The way of water</a>
+      <a href="">Dhamaka</a>
+      <a href="">Hit:The 2nd Case</a>
+</div>
+<div class="Contact">
+      <p><strong>List your Show   Got a ashow, event, activity or a great experience? Partners with us and get listed on BookMyShow</strong>
+      <button style="background-color:red;">Contact Us</button><br></p>
+      <section>
+      <button>24/7 customer care</button>
+      </section>
+      <section>
+      <button>resend booking confirmation</button>
+      </section>
+</div>
+<div class:"moviestypes">
+      <button>subscribe to the newsletter</button><br>
+      <strong>MOVIES NOW IN HYDERABAD</strong><br>
+      <a href="">Dhamaka</a><a href="">Avatar:The way of Water</a><a href="">Kushi(2001)</a><a href="">18 pages</a><a href="">cirkus</a><br>
+      <strong>MOVIES BY GENRE</strong><br>
+      <a href="">Drama Movies</a><a href="">Thriller Movies</a><a href="">Comedy Movies</a><a href="">Action Movies</a><a href="">Adventure Movies</a><br>
+      <strong>MOVIE UPDATES AND CELEBRATIES</strong><br>
+      <a href="">Upcoming Movies</a><a href="">Movies Now Showing</a><a href="">Movie Celebrities</a><br>
+</div>
+<div class="help">
+      <strong>HELP</strong><br>
+  <a href="">About Us</a><a href="">Contact Us</a><a href="">Current Opening</a><a href="">Press Coverage</a><a href="">Sitemap</a>
+
+  <h6>Copyrights2023 Bigtree Entertainment Pvt.Ltd. All Rights Reserved.</h6>
+</div>
+</body>
+</html>
